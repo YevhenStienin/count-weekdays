@@ -1,0 +1,26 @@
+{
+  "name": "count-weekdays",
+  "version": "1.0.0",
+  "description": "Solution for task to determine how many times a given day of the week occurs in the range between two specified dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YevhenStienin/count-weekdays.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Yevhen Stienin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YevhenStienin/count-weekdays/issues"
+  },
+  "type": "commonjs",
+  "homepage": "https://github.com/YevhenStienin/count-weekdays#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
