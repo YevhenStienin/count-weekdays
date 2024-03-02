@@ -63,6 +63,12 @@ const testCases = [
     expectedResult: 1,
   },
   {
+    startDate: new Date("2024-03-05"),
+    endDate: new Date("2024-03-05"),
+    weekday: 1,
+    expectedResult: 0,
+  },
+  {
     startDate: new Date("2024-03-02"),
     endDate: new Date("2024-03-07"),
     weekday: 5,
